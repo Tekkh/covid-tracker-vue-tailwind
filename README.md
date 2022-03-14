@@ -1,4 +1,4 @@
-# Vue Covid-19 Tracker
+# Vue-tailwind Covid-19 Tracker
 
 Displays the new/total cases and deaths globaly as well as per country
 
