@@ -1,6 +1,6 @@
 # Vue-tailwind Covid-19 Tracker
 
-Displays the new/total cases and deaths globaly as well as per country
+Displays the new/total covid19 cases and deaths globaly as well as per country
 
 ## API
 
